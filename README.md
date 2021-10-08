@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammaduzair-hub
 - 👀 I’m interested in Flutter Developing
 - 🌱 I’m currently learning Provider, getX
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me on email, "uzairhoma@gmail.com"
 
 <!---
